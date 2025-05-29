@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="45" viewBox="0 0 160 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shopping Cart Icon -->
+  <path d="M20 12H4.78L4 8.8C3.87 8.32 3.43 8 2.93 8H1C0.45 8 0 8.45 0 9C0 9.55 0.45 10 1 10H2.29L5.09 23.2C5.22 23.68 5.66 24 6.16 24H17C17.44 24 17.84 23.75 18 23.34L21 14.34C21.12 14.05 21.09 13.72 20.93 13.45C20.77 13.18 20.5 13 20.2 13H6.38L6.16 12H20C20.55 12 21 11.55 21 11C21 10.45 20.55 10 20 10Z" transform="translate(12, 8)" fill="#FF6B00"/>
+  <circle cx="8" cy="8" r="2" transform="translate(12, 26)" fill="#FF6B00"/>
+  <circle cx="8" cy="8" r="2" transform="translate(22, 26)" fill="#FF6B00"/>
+  
+  <!-- Text Elements with adjusted positioning -->
+  <text x="45" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold" letter-spacing="0.5">
+    <tspan fill="#FF6B00">A&amp;A</tspan>
+  </text>
+  <text x="98" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold" letter-spacing="0.5" fill="#4B5563">Cart</text>
+  
+  <!-- Decorative Line -->
+  <path d="M45 32h70" stroke="#E5E7EB" stroke-width="0.5"/>
+</svg>
